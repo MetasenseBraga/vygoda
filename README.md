@@ -1,0 +1,2 @@
+# vygoda
+Driving profitable trading
